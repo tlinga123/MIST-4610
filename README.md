@@ -13,7 +13,7 @@ Group 1
 ## Problem Description
 
 ## Data Model 
-
+![Data Model](images/data_model.png)
 ## Data Dictionary 
 
 ## Queries 
