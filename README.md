@@ -3,4 +3,13 @@ Scenario Description: This database tracks NFL teams, players, games, and stats,
 
 
 1. Tejas Lingamaneni @TejasLingamaneni
-2. 
+
+  
+
+
+
+
+
+
+# Problem Description
+
