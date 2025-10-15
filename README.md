@@ -5,10 +5,10 @@ Group 1
 
 ## Team Members
 1. Tejas Lingamaneni
-2. [Member 2 Name]
-3. [Member 3 Name]
-4. [Member 4 Name]
-5. [Member 5 Name]
+2. Megan Chen
+3. Dillan Mangabhai
+4. Ceci Motley
+5. Jeb Salter
 
 ## Problem Description
 The task is to model and build a **relational database** for the operations and statistics of the **National Football League (NFL)**. The central entities in the model include **Teams, Players, Games, and Coaches**, representing the structure and activities of the league.  
