@@ -30,7 +30,8 @@ The goal of this database is to accurately represent these relationships using a
 Although the world of the UCC is fictional, all entities and relationships reflect realistic college football operations.
 
 ## Data Model 
-![Data Model](images/data_model.png)
+![Data Model](images/<img width="1739" height="1359" alt="UnitedConference" src="https://github.com/user-attachments/assets/5ff4776c-3c2a-492d-b411-d406206b58a9" />
+)
 ## Data Dictionary 
 
 ## Queries 
