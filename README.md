@@ -11,19 +11,19 @@ Group 1
 5. Jeb Salter
 
 ## Problem Description
-This project models a fictional college football conference database that manages the operations of the United Collegiate Conference (UCC). The UCC is an entirely imaginary athletic league created for the purpose of this database project.
+This project models a fictional college football conference database that manages the operations of the **United Collegiate Conference (UCC)**. The UCC is an entirely imaginary athletic league created for the purpose of this database project.
 
 Each team in the conference competes across multiple seasons, maintains player rosters, employs coaching staff, and plays scheduled games in home stadiums. The database stores key football operations information, including:
 
-Teams and divisions within the conference
+**- Teams and divisions within the conference
 
-Players and seasonal rosters
+- Players and seasonal rosters
 
-Coaching staff assignments
+- Coaching staff assignments
 
-Games and schedules
+- Games and schedules
 
-Player performance statistics
+- Player performance statistics**
 
 The goal of this database is to accurately represent these relationships using a relational data model while enforcing referential integrity with foreign keys. This structure will allow meaningful SQL queries to be performed, such as analyzing team performance, tracking player development, and comparing statistics across seasons.
 
