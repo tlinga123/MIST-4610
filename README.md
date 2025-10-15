@@ -4,7 +4,7 @@
 Group 1
 
 ## Team Members
-1. [Member 1 Name]
+1. Tejas Lingamaneni
 2. [Member 2 Name]
 3. [Member 3 Name]
 4. [Member 4 Name]
