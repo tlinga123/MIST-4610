@@ -15,7 +15,7 @@ This project models a fictional college football conference database that manage
 
 Each team in the conference competes across multiple seasons, maintains player rosters, employs coaching staff, and plays scheduled games in home stadiums. The database stores key football operations information, including:
 
-**- Teams and divisions within the conference
+- Teams and divisions within the conference
 
 - Players and seasonal rosters
 
@@ -23,7 +23,7 @@ Each team in the conference competes across multiple seasons, maintains player r
 
 - Games and schedules
 
-- Player performance statistics**
+- Player performance statistics
 
 The goal of this database is to accurately represent these relationships using a relational data model while enforcing referential integrity with foreign keys. This structure will allow meaningful SQL queries to be performed, such as analyzing team performance, tracking player development, and comparing statistics across seasons.
 
