@@ -119,6 +119,3 @@ It also demonstrates flexible analytical filtering (pattern-based and numeric) a
 ## Database Information
 Name of the database: cs_jhs03654
 
-Additional information: Each query listed above is logged in the following strand of SQL code
-[Uploading united_conference.sql…]()
-
