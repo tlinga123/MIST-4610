@@ -1,4 +1,4 @@
-# MIST4610-Project1-Team1 
+# MIST4610-Project1-Group1 
 
 ## Team Name
 Group 1
