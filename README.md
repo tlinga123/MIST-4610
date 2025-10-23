@@ -1,7 +1,7 @@
-# MIST4610-Project1-Group1 
+# MIST4610 - Project 1 - 39217 Group 1 
 
 ## Team Name
-Group 1
+39217 Group 1
 
 ## Team Members
 1. Tejas Lingamaneni
